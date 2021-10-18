@@ -1,1 +1,1 @@
-This is a repository to teach you how to do successful PR for Hacktoberfest.
+This is a repository to teach you how to do successful PR for Hacktoberfest 2021.
